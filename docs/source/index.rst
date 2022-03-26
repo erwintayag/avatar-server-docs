@@ -1,13 +1,25 @@
 Welcome to avatar-server-pack documentation!
 ===================================
 
+Check out the :doc:`usage` section for further information, including
+how to :ref:`installation` the project.
+
 .. note::
 
-   This documentation is still under development.
-   
-   
+   This project is under active development.
+
+Contents
+--------
+
+.. toctree::
+
+   usage
+   api
+
 Created - 20220126
 Last Modified - 20220304
+
+.. toctree::
 
 + copy prod-sample folder
 + overwrite DBs with blank copies (from prod\blank)
