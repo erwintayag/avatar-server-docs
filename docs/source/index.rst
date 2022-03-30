@@ -10,6 +10,6 @@ Development Environment (https://github.com/ei8/avatar-server-pack)
 .. toctree::
    :maxdepth: 2
 
-prerequisites
-database
-local files
+   prerequisites
+   database
+   local files
